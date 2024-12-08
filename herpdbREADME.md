@@ -102,3 +102,9 @@ On the pre-loaded data jbrowse 2 webpage, The first view (MsaView) is showing th
 
 `HSV1_variants_percent_identity_matrix_clustalo.pim` is not being used by Jbrowse 2 but is a good user reference. 
 
+#### Debugging
+In case there are any issues with Jbrowse 2 or the MsaView plugin, you are able to download MsaView from the plugin store by opening a new session, clicking on `tools` in the top left corner, clicking on `plugin store`, and installing MsaView there. This will install MsaView for the exact instance you are running. 
+
+Additionally, you can open up a MsaView view and input the `HSV1_variant_alignment_clustalo.aln-stockholm` file (Url is: https://raw.githubusercontent.com/jonnylydaa/herpdb/6bc637c4f9805606d1ff557199c1505edbfeb673/precomputed_files/HSV1_variant_alignment_clustalo.aln-stockholm) into the first file entry (alignment file) and then you can input `HSV1_variants_clustalo.phylotree` (Url is: https://raw.githubusercontent.com/jonnylydaa/herpdb/6bc637c4f9805606d1ff557199c1505edbfeb673/precomputed_files/HSV1_variants_clustalo.phylotree) into the second file entry (tree file). 
+
+This will allow you to MsaView to display the data within these files in the chance that the pre-loaded Jbrowse 2 instance is not working correctly.
