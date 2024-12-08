@@ -1,0 +1,33 @@
+{
+  "dateCreated": "2024-12-07T21:28:08.639Z",
+  "tracks": [
+    {
+      "trackId": "HSV1_annotations.gff",
+      "attributesIndexed": [
+        "Name",
+        "ID"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HSV1_annotations.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HSV1_annotations.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "HSV1_genome"
+  ]
+}
