@@ -1,6 +1,8 @@
 # jonnylydaa.github.io
 Website to host herpdb data on Jbrowse 2
 
+github page to herpdb can be found at: https://github.com/jonnylydaa/herpdb
+
 ### **Github Pages Website** 
 
 **https://jonnylydaa.github.io**
