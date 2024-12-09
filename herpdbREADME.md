@@ -108,3 +108,60 @@ In case there are any issues with Jbrowse 2 or the MsaView plugin, you are able 
 Additionally, you can open up a MsaView view and input the `HSV1_variant_alignment_clustalo.aln-stockholm` file (Url is: https://raw.githubusercontent.com/jonnylydaa/herpdb/6bc637c4f9805606d1ff557199c1505edbfeb673/precomputed_files/HSV1_variant_alignment_clustalo.aln-stockholm) into the first file entry (alignment file) and then you can input `HSV1_variants_clustalo.phylotree` (Url is: https://raw.githubusercontent.com/jonnylydaa/herpdb/6bc637c4f9805606d1ff557199c1505edbfeb673/precomputed_files/HSV1_variants_clustalo.phylotree) into the second file entry (tree file). 
 
 This will allow MsaView to display the data within these files in the chance that the pre-loaded Jbrowse 2 instance is not working correctly.
+
+## References
+
+HSV-1: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/859/985/GCF_000859985.2_ViralProj15217/GCF_000859985.2_ViralProj15217_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/859/985/GCF_000859985.2_ViralProj15217/GCF_000859985.2_ViralProj15217_protein.faa.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/859/985/GCF_000859985.2_ViralProj15217/GCF_000859985.2_ViralProj15217_genomic.gff.gz
+
+HSV-2:
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/936/235/GCA_027936235.1_ASM2793623v1/GCA_027936235.1_ASM2793623v1_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/936/235/GCA_027936235.1_ASM2793623v1/GCA_027936235.1_ASM2793623v1_genomic.gff.gz
+
+HSV-3: 
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/858/285/GCF_000858285.1_ViralProj15198/GCF_000858285.1_ViralProj15198_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/858/285/GCF_000858285.1_ViralProj15198/GCF_000858285.1_ViralProj15198_genomic.gff.gz
+
+HSV-4:
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/402/265/GCF_002402265.1_ASM240226v1/GCF_002402265.1_ASM240226v1_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/402/265/GCF_002402265.1_ASM240226v1/GCF_002402265.1_ASM240226v1_genomic.gff.gz
+
+HSV-7:
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/848/125/GCF_000848125.1_ViralProj14625/GCF_000848125.1_ViralProj14625_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/848/125/GCF_000848125.1_ViralProj14625/GCF_000848125.1_ViralProj14625_genomic.gff.gz
+
+HSV-8:
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/838/265/GCF_000838265.1_ViralProj14158/GCF_000838265.1_ViralProj14158_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/838/265/GCF_000838265.1_ViralProj14158/GCF_000838265.1_ViralProj14158_genomic.gff.gz
+
+*HSV-1 Variants:*
+
+HSV1-San-Francisco-USA-1982-H193-BB:
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/937/225/GCA_027937225.1_ASM2793722v1/GCA_027937225.1_ASM2793722v1_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/937/225/GCA_027937225.1_ASM2793722v1/GCA_027937225.1_ASM2793722v1_protein.faa.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/937/225/GCA_027937225.1_ASM2793722v1/GCA_027937225.1_ASM2793722v1_genomic.gff.gz
+
+B^3x1.1B: 
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/937/005/GCA_027937005.1_ASM2793700v1/GCA_027937005.1_ASM2793700v1_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/937/005/GCA_027937005.1_ASM2793700v1/GCA_027937005.1_ASM2793700v1_protein.faa.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/937/005/GCA_027937005.1_ASM2793700v1/GCA_027937005.1_ASM2793700v1_genomic.gff.gz
+
+HSV-H1312:
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/936/485/GCA_027936485.1_ASM2793648v1/GCA_027936485.1_ASM2793648v1_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/936/485/GCA_027936485.1_ASM2793648v1/GCA_027936485.1_ASM2793648v1_protein.faa.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/936/485/GCA_027936485.1_ASM2793648v1/GCA_027936485.1_ASM2793648v1_genomic.gff.gz
+
+F: 
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/937/465/GCA_027937465.1_ASM2793746v1/GCA_027937465.1_ASM2793746v1_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/937/465/GCA_027937465.1_ASM2793746v1/GCA_027937465.1_ASM2793746v1_protein.faa.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/937/465/GCA_027937465.1_ASM2793746v1/GCA_027937465.1_ASM2793746v1_genomic.gff.gz
+
+
+Clustal Omega: 
+
+```Madeira F, Madhusoodanan N, Lee J, et al. The EMBL-EBI Job Dispatcher sequence analysis tools framework in 2024. Nucleic Acids Research. 2024 Jul;52(W1):W521-W525. DOI: 10.1093/nar/gkae241. PMID: 38597606; PMCID: PMC11223882.```
+
+Jbrowse 2 Installation:
+
+``` Diesh, C.,  Buels, R.,  Stevens, G.,  Bridge, C.,  Cain, S.,  Stein, L., &  Holmes, I. (2024).  Setting up the JBrowse 2 genome browser. Current Protocols,  4, e1120. doi: 10.1002/cpz1.1120```
